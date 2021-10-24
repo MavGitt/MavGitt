@@ -51,7 +51,8 @@ func GetBio() Bio {
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="left">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= #> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -62,7 +63,6 @@ func GetBio() Bio {
 <a href= # > <img width ='32px' src ='https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg'> </a>
 <a href= # > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png'> </a>
 <a href= # > <img width ='32px' src ='https://miro.medium.com/max/1032/1*sPLooWMag11pjZnzYXIQCA.png'> </a>
-<a href= # > <img width ='32px' src ='https://seekvectors.com/files/download/3c4f971b2b4633fd383a0c431e2cfd95.png'> </a>
 <a href= # > <img width ='32px' src ='https://opensenselabs.com/sites/default/files/inline-images/cypress%20-%20opensense%20labs.png'> </a>	
 <a href= # > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png'> </a>
 
