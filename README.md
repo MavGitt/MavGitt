@@ -50,17 +50,21 @@ func GetBio() Bio {
 <h2 align="center">My stack :man_technologist:</h2>
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-<p align="center">
-<a href= #> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href=#> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<p align="left">
+	&nbsp;&nbsp;
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-
-<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= #> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href=#> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= # > <img width ='32px' src ='https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg'> </a>
-
+<a href= # > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png'> </a>
+<a href= # > <img width ='32px' src ='https://miro.medium.com/max/1032/1*sPLooWMag11pjZnzYXIQCA.png'> </a>
+<a href= # > <img width ='32px' src ='https://seekvectors.com/files/download/3c4f971b2b4633fd383a0c431e2cfd95.png'> </a>
+<a href= # > <img width ='32px' src ='https://opensenselabs.com/sites/default/files/inline-images/cypress%20-%20opensense%20labs.png'> </a>	
+<a href= # > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png'> </a>
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
