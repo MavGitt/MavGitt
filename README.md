@@ -1,7 +1,7 @@
 
 <img src = "banner.jpg">
 <hr>
-<h1 align="center">Hi 👋, I am Satyam Kumar </h1>
+<h1 align="center">Hi 👋, I am SATYAM KUMAR </h1>
 
 ***About me ....***
 ```golang
