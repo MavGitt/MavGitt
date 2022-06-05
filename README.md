@@ -1,7 +1,7 @@
 
 <img src = "banner.jpg">
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Satyam Kumar </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">, I am Satyam Kumar </h1>
 
 ***About me ....***
 ```golang
