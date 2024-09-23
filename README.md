@@ -1,35 +1,28 @@
-
-<img src = "banner.jpg">
 <hr>
 <h1 align="center">Hi 👋, I am SATYAM KUMAR </h1>
 
 ***About me ....***
-```golang
-package main
+```
+const bio = {
+    "- ⚡ Quick bio:": "A kind of metalHead-synthWave-BGMI-melomaniac-gearAddict-amateur musician-traveler-food lover-gamer-coder-programmer-RCB-",
+    "- 🔭 I’m currently working on": "Tracelink as a Software Developer --- Private Part Time Teacher",
+    "- 🌱 I’m currently learning": "NodeJS, MongoDB, Express, React, NestJs (Tech stack for my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+    "- 👯 I’m looking to collaborate on": "NodeJs, ReactJs and Docker-related projects",
+    "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
+    "- 💬 Ask me about": "DataStructure, React, NodeJs, SQL, Software Design & Architecture, Web-Dev and SEO",
+    "- 📫 How to reach me:": "https://mavcodes.netlify.app"
+};
 
-import (
-	"fmt"
-)
-
-type Bio map[string]string
-
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
+function getBio() {
+    return bio;
 }
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-synthWave-BGMI-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-RCB-",
-		"- 🔭 I’m currently working on":      "Syscloud as a  Software Developer --- Private Part Time Teacher",
-		"- 🌱 I’m currently learning":        "NodeJS, MongoDB, Express, React, NestJs (Tech stack for my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "NodeJs, ReactJs and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "DataStructure, React, NodeJs, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://mavcodes.netlify.app",
-	}
-}
+(function displayBio() {
+    const bioEntries = getBio();
+    for (const [key, value] of Object.entries(bioEntries)) {
+        console.log(`${key}: ${value}`);
+    }
+})();
 ```
 <h2 align="center">You can reach me at :alien:</h2>
 
@@ -51,7 +44,7 @@ func GetBio() Bio {
 </p>
 <h2 align="center">My stack :man_technologist:</h2>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) within the past</p>
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
@@ -74,4 +67,4 @@ func GetBio() Bio {
 
 <p align="center"><img src="https://profile-counter.glitch.me/{MavGitt}/count.svg" alt="Satyam :: Visitor's Count" /></p>
 
-More info at : https://satyambio.netlify.app
+More info at: https://satyambio.netlify.app
